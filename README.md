@@ -37,6 +37,8 @@ Technical Aspect:
 
 
 Algorithm mapping:
+
+
 The classification algorithm I have used is **logistic regression**.Tried with several other algorithms like naive bayesian,but logistic regression showed me up a maximum accuracy of 92%
 
 
